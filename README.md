@@ -37,11 +37,11 @@ Visualizations: ![Elbow Curve](https://github.com/user-attachments/assets/23032c
 Elbow Curve
 Customer Segments
 
-Insights
-Cluster 0: High-spending middle-aged customers.
-Cluster 1: Younger customers with moderate spending.
-Cluster 2: Senior customers with low spending.
-Cluster 3: Middle-aged customers with high store density visits.
+**Insights**
+- Cluster 0: High-spending middle-aged customers.
+- Cluster 1: Younger customers with moderate spending.
+- Cluster 2: Senior customers with low spending.
+- Cluster 3: Middle-aged customers with high store density visits.
 
 
 
